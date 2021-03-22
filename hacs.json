@@ -1,0 +1,7 @@
+{
+  "name": "YTZ Icon Pack",
+  "render_readme": false,
+  "content_in_root": true,
+  "homeassistant": "0.110",
+  "filename": "ha-ytz-icons.js"
+}
