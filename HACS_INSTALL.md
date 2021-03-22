@@ -7,7 +7,7 @@
 ### Reload
 <img src="./docs/reload.png"  width="600" ><br />
 
-The icons will be available under the `ytz` namespace, eg ytz:air-conditioner
+The icons will be available under the `ytz` namespace, eg `ytz:air-conditioner`
 
 There is no need to restart.
 

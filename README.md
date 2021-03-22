@@ -372,7 +372,7 @@ Add the folowing to the `frontend` section of your `configuration.yaml`
 ```yaml
 frontend:
   extra_module_url:
-    - /local/HASS_SCRIPT_NAME
+    - /local/ha-ytz-icons.js
 ```
 
 Or add the following to your lovelace configuration using the Raw Config editor under Configure UI or ui-lovelace.yaml if using YAML mode.
@@ -380,7 +380,7 @@ Or add the following to your lovelace configuration using the Raw Config editor 
 ```yaml
 resources:
   - type: js
-    url: /local/HASS_SCRIPT_NAME
+    url: /local/ha-ytz-icons.js
 ```
 
 Restart home-assistant.
